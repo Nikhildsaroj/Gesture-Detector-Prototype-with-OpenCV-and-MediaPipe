@@ -1,0 +1,1 @@
+# Gesture-Detector-Prototype-with-OpenCV-and-MediaPipe
