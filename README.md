@@ -1,4 +1,5 @@
 # Gesture Detector Prototype with OpenCV and MediaPipe
+## Colab Notebook Link https://colab.research.google.com/drive/1HhbUPYsmNEEC51cwzY3xEtm-ZTQ06Yiv?usp=drive_link
 
 ## Introduction
 Gesture detection is a computer vision task that involves identifying and annotating frames in a video where a thumbs-up hand gesture is present. This documentation outlines the approach, implementation details, and usage instructions for detecting thumbs-up gestures in a video using the MediaPipe Hands framework and OpenCV.
